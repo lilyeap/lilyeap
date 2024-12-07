@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lily!
 
-<!--
-**lilyeap/lilyeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+I’m Lily, a senior at the University of Illinois at Chicago, majoring in Computer Science. 
+I’m passionate about building innovative solutions in Software Engineering and Machine Learning Engineering.
 
-Here are some ideas to get you started:
+🔧 **Skills & Tools**  
+- Programming Languages: Python, Java, F#, C
+- Tools: VS Code, Git, Docker, Jupyter Notebooks
+- Databases: SQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured Projects**  
+- [**?**](#): 
+- [**?**](#):
+
+📫 Contact Information:
+Email: lileapy@gmail.com
+LinkedIn: https://www.linkedin.com/in/lilyeap/
+
+
+🌟 **Let’s Connect!**  
