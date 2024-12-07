@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Lily!
-![alt text](https://github.com/lilyeap/lilyeap/blob/main/headshot.jpg?raw=true)
+![alt text](https://github.com/lilyeap/lilyeap/blob/main/headshot.jpg?raw=true =250x250)
 
 🌟 **About Me**  
 I’m Lily, a senior at the University of Illinois at Chicago, majoring in Computer Science. 
