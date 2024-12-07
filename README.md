@@ -23,7 +23,7 @@ I’m passionate about building innovative solutions in Software Engineering and
             Iterative Deepening Depth-First Search (IDDFS)
             A* Search
             Iterative Deepening A* Search
-  - [**leaf-summer-project**](#): 
+- [**leaf-summer-project**](#): 
     Description: Front-end development of an app using React to promote financial literacy, providing users with tools and resources to improve their understanding of personal finance.
 
 📫 Contact Information:
