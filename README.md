@@ -10,8 +10,13 @@ I’m passionate about building innovative solutions in Software Engineering and
 - Databases: SQL, PostgreSQL
 
 📌 **Featured Projects**  
-- [**?**](#): 
-- [**?**](#):
+- [**sentishelter**](#):
+-   Achievements:
+      🥇 1st Place in Fannie Mae's Sentiment Analysis Challenge
+      🎖️ Honorable Mention for Best AI Powered Solution by Bloomberg
+      Recognized at Technica 2023, the largest hackathon for underrepresented genders (800+ participants and 100+ projects).
+      Description: Sentishelter is a sentiment analysis tool
+- [**AI 15 Puzzle Search**](#): 
 
 📫 Contact Information:
 Email: lileapy@gmail.com
