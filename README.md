@@ -17,6 +17,12 @@ I’m passionate about building innovative solutions in Software Engineering and
       Recognized at Technica 2023, the largest hackathon for underrepresented genders (800+ participants and 100+ projects).
       Description: Sentishelter is a sentiment analysis tool
 - [**AI 15 Puzzle Search**](#): 
+    Description: Developed algorithms to solve the 15-Puzzle, where the objective is to arrange tiles in order by sliding them into an empty space.
+      Algorithms Implemented:
+            Breadth-First Search (BFS)
+            Iterative Deepening Depth-First Search (IDDFS)
+            A* Search
+            Iterative Deepening A* Search
 
 📫 Contact Information:
 Email: lileapy@gmail.com
