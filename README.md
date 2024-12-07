@@ -11,11 +11,11 @@ I’m passionate about building innovative solutions in Software Engineering and
 
 📌 **Featured Projects**  
 - [**sentishelter**](#):
--   Achievements:
-      🥇 1st Place in Fannie Mae's Sentiment Analysis Challenge
-      🎖️ Honorable Mention for Best AI Powered Solution by Bloomberg
-      Recognized at Technica 2023, the largest hackathon for underrepresented genders (800+ participants and 100+ projects).
-      Description: Sentishelter is a sentiment analysis tool
+        Achievements:
+            🥇 1st Place in Fannie Mae's Sentiment Analysis Challenge
+            🎖️ Honorable Mention for Best AI Powered Solution by Bloomberg
+            Recognized at Technica 2023, the largest hackathon for underrepresented genders (800+ participants and 100+ projects).
+            Description: Sentishelter is a sentiment analysis tool
 - [**AI 15 Puzzle Search**](#): 
     Description: Developed algorithms to solve the 15-Puzzle, where the objective is to arrange tiles in order by sliding them into an empty space.
       Algorithms Implemented:
@@ -23,6 +23,8 @@ I’m passionate about building innovative solutions in Software Engineering and
             Iterative Deepening Depth-First Search (IDDFS)
             A* Search
             Iterative Deepening A* Search
+  - [**leaf-summer-project**](#): 
+    Description: Front-end development of an app using React to promote financial literacy, providing users with tools and resources to improve their understanding of personal finance.
 
 📫 Contact Information:
 Email: lileapy@gmail.com
