@@ -5,7 +5,7 @@ I’m Lily, a senior at the University of Illinois at Chicago, majoring in Compu
 I’m passionate about building innovative solutions in Software Engineering and Machine Learning Engineering.
 
 🔧 **Skills & Tools**  
-- Programming Languages: Python, Java, F#, C
+- Programming Languages: Python, Java, C++, C, ReactJS
 - Tools: VS Code, Git, Docker, Jupyter Notebooks
 - Databases: SQL, PostgreSQL
 
